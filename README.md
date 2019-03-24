@@ -1,3 +1,9 @@
+## Counter 
+
+![counter demo](https://github.com/Behnazz/Counter/blob/master/counter.gif)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
